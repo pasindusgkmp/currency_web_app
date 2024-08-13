@@ -57,10 +57,10 @@ function App() {
 
   return (
     <div>
-      <h1 className="lg:mx-32  text-5xl font-black flex items-center justify-normal text-green-500">
+      <h1 className="lg:mx-32 mb-6 text-5xl font-black flex items-center justify-center text-green-500">
         Convert Your Currencies Today
       </h1>
-      <p className="lg:mx-32 font-sm opacity-40 py-6">
+      <p class="text-white text-lg max-w-xl mb-8 pl-4 mx-auto text-center">
         Welcome to "Convert Your Currencies Today"! This application allows you
         to easily convert currencies based on the latest exchange rates. Whether
         you're planning a trip, managing your finances, or simply curious about
